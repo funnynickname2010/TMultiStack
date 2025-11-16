@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TMultiStack/TMultiStack.vcxproj" Id="4696fba7-359e-423e-b97a-b872b2263c16" />
+</Solution>
