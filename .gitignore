@@ -1,3 +1,23 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# CMake build folders
+build/
+cmake-build-*/
+
+# Compiled objects
+*.obj
+*.o
+*.pdb
+*.exe
+*.dll
+*.lib
+
+# Other temp
+*.cache
+
 # Prerequisites
 *.d
 
